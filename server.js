@@ -15,7 +15,7 @@ var io = socketIO(server,
 });
 var cuoc   = Array();
 var system = {
-	url : 'https://tranggamevip.club', 
+	url : 'https://nguyen19.tk', 
 	keycode : '123456', 
 	ngocrong_min : 1000, 
 	ngocrong_max : 2000,
