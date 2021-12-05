@@ -6,7 +6,7 @@ session_set_cookie_params(86400);
 session_start();
 date_default_timezone_set('Asia/Ho_Chi_Minh');
 $vip    = array("10","20","150","400","1000","5000");
-$mysqli = new mysqli("localhost","vknvagcj_game","Game123@@@@","vknvagcj_game"); 
+$mysqli = new mysqli("localhost","334950","12345678","334950"); 
 $mysqli -> set_charset("utf8");
 /**/
 $root = $_SERVER['DOCUMENT_ROOT'];
